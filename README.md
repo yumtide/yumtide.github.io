@@ -1,23 +1,3 @@
-xxxx
-<<<<<<< HEAD
-xxxx
-xxxx
-xxxx
-xxxx
-xxxx
-=======
-a;sldkjfa;klsdf;ads
-
-
-xx
-x
-x
-x
-x
-x
->>>>>>> 59b3301e23b5a3485d011be564d4a7584148a556
-
-
 # Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
