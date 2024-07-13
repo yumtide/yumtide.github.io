@@ -1,9 +1,21 @@
 xxxx
+<<<<<<< HEAD
 xxxx
 xxxx
 xxxx
 xxxx
 xxxx
+=======
+a;sldkjfa;klsdf;ads
+
+
+xx
+x
+x
+x
+x
+x
+>>>>>>> 59b3301e23b5a3485d011be564d4a7584148a556
 
 
 # Minimal Mistakes remote theme starter
